@@ -1,7 +1,5 @@
 package com.isu.board.service.validator;
 
-import com.isu.board.repository.UserRepository;
-import com.isu.board.service.dto.UserDto;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Component;
 import org.springframework.validation.Errors;
